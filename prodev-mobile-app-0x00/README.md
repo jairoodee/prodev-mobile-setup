@@ -44,4 +44,13 @@ Run the reset command and observe its effects:
 npm run reset-project
 ```
 
-The app folder moves to app-example folder.
+ /app-example directory created.
+➡️ /app moved to /app-example/app.
+➡️ /components moved to /app-example/components.
+➡️ /hooks moved to /app-example/hooks.
+➡️ /constants moved to /app-example/constants.
+➡️ /scripts moved to /app-example/scripts.
+
+📁 New /app directory created.
+📄 app/index.tsx created.
+📄 app/_layout.tsx created.
